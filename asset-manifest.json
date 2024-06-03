@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/PimPim/static/css/main.75f555fa.css",
+    "main.js": "/PimPim/static/js/main.590914d3.js",
+    "static/media/bg.png": "/PimPim/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/meal.mp4": "/PimPim/static/media/meal.4277d242ae84c15df7fc.mp4",
+    "static/media/laurels.png": "/PimPim/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/gallery04.png": "/PimPim/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/PimPim/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/PimPim/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/findus.png": "/PimPim/static/media/findus.4917086f3e298cffbc36.png",
+    "static/media/welcome.png": "/PimPim/static/media/welcome.6f093c8e910aa7324a0d.png",
+    "static/media/gallery01.png": "/PimPim/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/pim.png": "/PimPim/static/media/pim.9e2c4fd704b4d87cb1bc.png",
+    "static/media/knife.png": "/PimPim/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/PimPim/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/menu.jpg": "/PimPim/static/media/menu.281beee911fa403b7828.jpg",
+    "static/media/G.png": "/PimPim/static/media/G.6ed854a4310d8190025d.png",
+    "static/media/logo.png": "/PimPim/static/media/logo.0286194c03de0a90dac9.png",
+    "index.html": "/PimPim/index.html",
+    "static/media/spoon.svg": "/PimPim/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
+    "main.75f555fa.css.map": "/PimPim/static/css/main.75f555fa.css.map",
+    "main.590914d3.js.map": "/PimPim/static/js/main.590914d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f555fa.css",
+    "static/js/main.590914d3.js"
+  ]
+}
